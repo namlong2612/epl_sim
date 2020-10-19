@@ -1,5 +1,5 @@
-About EPL Match Sim
-===================
+About EPL What If
+=================
 
 Have you ever wondered who would win between The Invincibles Arsenal
 side and the 100-point record-breaking Manchester City side? I have had
@@ -10,7 +10,9 @@ a match between any Premier League sides (ever).
 
 The idea of the app is for a user to choose a Home side and an Away side
 at any given Season of the English Premier League and see how they
-perform. The stats for any team are also provided in the second tab.
+perform against each other. The user can also choose any 20 teams from
+the history to simulate a “Fantasy League” to see which team come out on
+top/bottom. The stats for any team are also provided in the third tab.
 
 Methodology
 -----------
